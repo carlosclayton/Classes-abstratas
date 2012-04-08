@@ -1,0 +1,8 @@
+<?php
+require_once 'Pessoa.php';
+class PessoaFisica extends Pessoa{
+	// Implementação do método abstrato da super classe	
+	public function  getTipo(){
+		return 'PF';
+	}		
+}
