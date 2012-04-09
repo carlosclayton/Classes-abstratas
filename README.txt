@@ -2,3 +2,4 @@ Classes abstratas são utilizadas quando precisamos deixar certos detalhes de imp
 Maiores informações no link: http://www.viusolucoes.com.br/blog-viu-solucoes/categoria/php/classes-abstratas-em-php
 Autor: Carlos Clayton N. Miranda
 E-mail: clayton@viusolucoes.com.br
+Twitter:carlosclayton
