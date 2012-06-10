@@ -5,3 +5,4 @@ Estes códigos fazem parte do artigo Classes abstratas em PHP disponível no link:
 Autor: Carlos Clayton N. Miranda
 E-mail: clayton@viusolucoes.com.br
 Twitter:carlosclayton
+
